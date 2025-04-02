@@ -37,7 +37,7 @@
 
 ### **Prerequisites**:
 Ensure the following tools are installed:
-- **Node.js** 
+- **Next.js** 
 - **PostgreSQL** database (e.g., Neon)
 - Create a `.env` file with your environment variables:
   ```env
