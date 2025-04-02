@@ -102,10 +102,7 @@ I welcome contributors! To get started:
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-Here’s the updated README for your social app **Social**, now including credit to the YouTube tutorial by Gideace and formatted to highlight key details effectively on GitHub:
 
----
 
 
 
